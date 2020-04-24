@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bootcamp Homework Assignment",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsceroler/bamazon.git"
+  },
+  "author": "Travis Sceroler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jsceroler/bamazon/issues"
+  },
+  "homepage": "https://github.com/Jsceroler/bamazon#readme"
+}
