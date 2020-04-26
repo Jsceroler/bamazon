@@ -106,3 +106,5 @@
    * Hint: You may need to look into JOINS.
 
    * **HINT**: There may be an NPM package that can log the table to the console. What's is it? Good question :)
+
+---
